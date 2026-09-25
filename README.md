@@ -6,3 +6,4 @@ basic Git and GitHub skills, including:
 - Writing a README
 - Uploading files
 - Using Git locally (clone, commit, push)
+This line was added locally.
